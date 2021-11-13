@@ -1,0 +1,15 @@
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\bin\Debug\net5.0\heriflerin yanina isare qoymaq.exe
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\bin\Debug\net5.0\heriflerin yanina isare qoymaq.deps.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\bin\Debug\net5.0\heriflerin yanina isare qoymaq.runtimeconfig.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\bin\Debug\net5.0\heriflerin yanina isare qoymaq.runtimeconfig.dev.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\bin\Debug\net5.0\heriflerin yanina isare qoymaq.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\bin\Debug\net5.0\ref\heriflerin yanina isare qoymaq.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\bin\Debug\net5.0\heriflerin yanina isare qoymaq.pdb
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\obj\Debug\net5.0\heriflerin yanina isare qoymaq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\obj\Debug\net5.0\heriflerin yanina isare qoymaq.AssemblyInfoInputs.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\obj\Debug\net5.0\heriflerin yanina isare qoymaq.AssemblyInfo.cs
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\obj\Debug\net5.0\heriflerin yanina isare qoymaq.csproj.CoreCompileInputs.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\obj\Debug\net5.0\heriflerin yanina isare qoymaq.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\obj\Debug\net5.0\ref\heriflerin yanina isare qoymaq.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\obj\Debug\net5.0\heriflerin yanina isare qoymaq.pdb
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\heriflerin yanina isare qoymaq\heriflerin yanina isare qoymaq\obj\Debug\net5.0\heriflerin yanina isare qoymaq.genruntimeconfig.cache

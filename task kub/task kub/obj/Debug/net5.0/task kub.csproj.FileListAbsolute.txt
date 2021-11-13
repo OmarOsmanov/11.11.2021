@@ -1,0 +1,15 @@
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\bin\Debug\net5.0\task kub.exe
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\bin\Debug\net5.0\task kub.deps.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\bin\Debug\net5.0\task kub.runtimeconfig.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\bin\Debug\net5.0\task kub.runtimeconfig.dev.json
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\bin\Debug\net5.0\task kub.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\bin\Debug\net5.0\ref\task kub.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\bin\Debug\net5.0\task kub.pdb
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\obj\Debug\net5.0\task kub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\obj\Debug\net5.0\task kub.AssemblyInfoInputs.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\obj\Debug\net5.0\task kub.AssemblyInfo.cs
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\obj\Debug\net5.0\task kub.csproj.CoreCompileInputs.cache
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\obj\Debug\net5.0\task kub.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\obj\Debug\net5.0\ref\task kub.dll
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\obj\Debug\net5.0\task kub.pdb
+C:\Users\Hp-pavilion\Desktop\lesson 1 code\task kub\task kub\obj\Debug\net5.0\task kub.genruntimeconfig.cache
